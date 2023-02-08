@@ -1,0 +1,7 @@
+첨 react 설치하기.
+https://dev-st.tistory.com/4
+
+인텔리j에 react설치는 되는데, useState등 훅이 설이 안 돼서,
+VS Code에서 작업함.
+
+
